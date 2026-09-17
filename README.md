@@ -41,3 +41,19 @@ C++
 
 I am using this repository to keep my DSA solutions in one place and track my progress as I practice.
 I will keep adding new problems as I continue learning and solving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+<!---LeetCode Topics End-->
