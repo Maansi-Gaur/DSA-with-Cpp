@@ -48,6 +48,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,20 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
