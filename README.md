@@ -62,6 +62,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,13 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 <!---LeetCode Topics End-->
