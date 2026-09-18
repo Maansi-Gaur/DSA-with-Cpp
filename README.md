@@ -49,6 +49,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
@@ -62,6 +63,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
