@@ -47,6 +47,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Backtracking
@@ -61,6 +62,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Binary Search
