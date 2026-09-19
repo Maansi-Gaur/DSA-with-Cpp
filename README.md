@@ -126,6 +126,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +135,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
