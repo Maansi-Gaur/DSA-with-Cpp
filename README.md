@@ -60,6 +60,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +130,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
