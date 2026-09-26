@@ -57,6 +57,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -160,6 +161,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
