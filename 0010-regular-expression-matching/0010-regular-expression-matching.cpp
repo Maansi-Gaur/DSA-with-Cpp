@@ -2,38 +2,73 @@ class Solution {
 public:
     bool isMatch(string s, string p) {
 
-        int m = s.size();
-        int n = p.size();
-        vector<vector<bool>> dp(
-            m + 1,
-            vector<bool>(n + 1, false)
-        );
+        vector<vector<bool>> dp(p.length() + 1,
+                                vector<bool>(s.length() + 1, false));
 
-        dp[0][0] = true;
+        for (int i = 0; i < dp.size(); i++) {
 
-        for (int i = 0; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (p[j - 1] == '*') {
-                    if (j >= 2) {
-                        dp[i][j] = dp[i][j - 2];
+            for (int j = 0; j < dp[0].size(); j++) {
 
-                        if (i > 0 &&
-                            (s[i - 1] == p[j - 2] || p[j - 2] == '.')) {
+                // Empty pattern + empty string
+                if (i == 0 && j == 0) {
+                    dp[i][j] = true;
+                }
 
-                            dp[i][j] = dp[i][j] || dp[i - 1][j];
-                        }
+                // Empty pattern
+                else if (i == 0) {
+                    dp[i][j] = false;
+                }
+
+                // Empty string
+                else if (j == 0) {
+
+                    char pc = p[i - 1];
+
+                    if (pc == '*') {
+                        dp[i][j] = dp[i - 2][j];
+                    }
+                    else {
+                        dp[i][j] = false;
                     }
                 }
+
                 else {
 
-                    if (i > 0 &&
-                        (s[i - 1] == p[j - 1] || p[j - 1] == '.')) {
+                    char pc = p[i - 1];
+                    char sc = s[j - 1];
+
+                    // Current pattern character is *
+                    if (pc == '*') {
+
+                        // Ignore x*
+                        dp[i][j] = dp[i - 2][j];
+
+                        char pslc = p[i - 2];
+
+                        // x* can match current character
+                        if (pslc == '.' || pslc == sc) {
+                            dp[i][j] = dp[i][j] || dp[i][j - 1];
+                        }
+                    }
+
+                    // Current pattern character is .
+                    else if (pc == '.') {
                         dp[i][j] = dp[i - 1][j - 1];
+                    }
+
+                    // Characters match
+                    else if (pc == sc) {
+                        dp[i][j] = dp[i - 1][j - 1];
+                    }
+
+                    // Characters don't match
+                    else {
+                        dp[i][j] = false;
                     }
                 }
             }
         }
 
-        return dp[m][n];
+        return dp[p.length()][s.length()];
     }
 };
