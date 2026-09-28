@@ -65,6 +65,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -78,6 +79,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
+| [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0029-divide-two-integers](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
+| [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +177,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0054-spiral-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
+| [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +221,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
