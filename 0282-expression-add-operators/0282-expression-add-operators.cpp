@@ -1,66 +1,62 @@
 class Solution {
 public:
+    vector<string> ans;
 
-    void solve(string &num, long long target, int idx,
-               string expr, long long result, long long prev,
-               vector<string>& ans) {
+    vector<string> addOperators(string s, int target) {
+        helper(s, target, 0, "", 0, 0);
+        return ans;
+    }
 
-        // All digits used
-        if (idx == num.size()) {
-            if (result == target) {
-                ans.push_back(expr);
+    void helper(string s, int target, int i, string path,
+                long eval, long residual) {
+
+        // Base case
+        if (i == s.length()) {
+            if (eval == target) {
+                ans.push_back(path);
             }
             return;
         }
 
-        for (int i = idx; i < num.size(); i++) {
+        string currStr;
+        long num = 0;
 
-            // Leading zero not allowed
-            if (i > idx && num[idx] == '0')
-                break;
+        // Backtracking loop
+        for (int j = i; j < s.length(); j++) {
 
-            string currStr = num.substr(idx, i - idx + 1);
+            // Leading zero handle
+            if (j > i && s[i] == '0')
+                return;
 
-            long long curr = stoll(currStr);
+            currStr += s[j];
+            num = num * 10 + (s[j] - '0');
 
             // First number
-            if (idx == 0) {
-                solve(num, target, i + 1,
-                      currStr, curr, curr, ans);
+            if (i == 0) {
+                helper(s, target, j + 1,
+                       path + currStr,
+                       num, num);
             }
-
             else {
 
                 // +
-                solve(num, target, i + 1,
-                      expr + "+" + currStr,
-                      result + curr,
-                      curr,
-                      ans);
+                helper(s, target, j + 1,
+                       path + "+" + currStr,
+                       eval + num,
+                       num);
 
                 // -
-                solve(num, target, i + 1,
-                      expr + "-" + currStr,
-                      result - curr,
-                      -curr,
-                      ans);
+                helper(s, target, j + 1,
+                       path + "-" + currStr,
+                       eval - num,
+                       -num);
 
                 // *
-                solve(num, target, i + 1,
-                      expr + "*" + currStr,
-                      result - prev + prev * curr,
-                      prev * curr,
-                      ans);
+                helper(s, target, j + 1,
+                       path + "*" + currStr,
+                       eval - residual + residual * num,
+                       residual * num);
             }
         }
-    }
-
-    vector<string> addOperators(string num, int target) {
-
-        vector<string> ans;
-
-        solve(num, target, 0, "", 0, 0, ans);
-
-        return ans;
     }
 };
