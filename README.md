@@ -132,6 +132,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0008-string-to-integer-atoi](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
