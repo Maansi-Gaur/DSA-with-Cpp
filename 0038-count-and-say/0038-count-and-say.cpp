@@ -1,27 +1,33 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        string ans = "1";
+        string s = "1";
 
-        for (int i = 1; i < n; i++) {
-            string next = "";
+        for(int k = 2; k <= n; k++) {
 
-            for (int j = 0; j < ans.size(); j++) {
-                int count = 1;
+            string ans = "";
+            int count = 1;
 
-                while (j + 1 < ans.size() && ans[j] == ans[j + 1]) {
+            for(int i = 1; i < s.size(); i++) {
+
+                if(s[i] == s[i-1]) {
                     count++;
-                    j++;
                 }
-
-                next += to_string(count);
-                next += ans[j];
+                else {
+                    ans += to_string(count);
+                    ans += s[i-1];
+                    count = 1;
+                }
             }
 
-            ans = next;
+            // last group
+            ans += to_string(count);
+            ans += s[s.size()-1];
+
+            s = ans;
         }
 
-        return ans;
+        return s;
     }
 };
 //hmesha purane wale ko dekh
