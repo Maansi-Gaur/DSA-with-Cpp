@@ -149,6 +149,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
@@ -214,6 +215,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,4 +266,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
