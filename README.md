@@ -118,6 +118,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -145,6 +146,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0068-text-justification/) | Hard |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
