@@ -3,8 +3,8 @@ public:
     int myAtoi(string s) {
         int i = 0;
         int n = s.size();
-
-        // 1. Skip spaces
+ 
+        // 1. Skip spaces jo ki starting mein h
         while (i < n && s[i] == ' ') {
             i++;
         }
@@ -16,7 +16,7 @@ public:
             if (s[i] == '-') {
                 sign = -1;
             }
-            i++;
+            i++;//i++ isliye kyunki sign ko process karne ke baad next character digit hoga.so ab number bnana padega
         }
 
         // 3. Build number
