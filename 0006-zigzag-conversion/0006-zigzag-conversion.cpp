@@ -1,31 +1,43 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || numRows >= s.size())
+
+        if (numRows == 1) {
             return s;
-
-        vector<string> rows(numRows);
-
-        int row = 0;
-        int step = 1;
-
-        for (char ch : s) {
-            rows[row] += ch;
-
-            if (row == 0)
-                step = 1;
-            else if (row == numRows - 1)
-                step = -1;
-
-            row += step;
         }
 
-        string ans;
+        string sb = "";
 
-        for (int i = 0; i < rows.size(); i++) {
-           ans += rows[i];
+        for (int i = 0; i < numRows; i++) {
+
+            int idx = i;
+            int deltaSouth = 2 * (numRows - 1 - i);
+            int deltaNorth = 2 * i;
+            bool goingSouth = true;
+
+            while (idx < s.length()) {
+
+                sb += s[idx];
+
+                if (i == 0) {
+                    idx += deltaSouth;
+                }
+                else if (i == numRows - 1) {
+                    idx += deltaNorth;
+                }
+                else {
+                    if (goingSouth) {
+                        idx += deltaSouth;
+                    }
+                    else {
+                        idx += deltaNorth;
+                    }
+
+                    goingSouth = !goingSouth;
+                }
+            }
         }
 
-        return ans;
+        return sb;
     }
 };
