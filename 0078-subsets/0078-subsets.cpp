@@ -6,7 +6,6 @@ public:
         ans.push_back(current);
         return ;
     }
-    
     current.push_back(nums[idx]);
     solve(nums, idx+1, current,ans);
 
