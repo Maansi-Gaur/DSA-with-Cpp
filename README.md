@@ -126,6 +126,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Sliding Window
@@ -195,6 +196,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
+| [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -246,6 +248,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
+| [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,4 +298,5 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
