@@ -192,6 +192,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0029-divide-two-integers/) | Medium |
+| [0050-powx-n](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
@@ -250,6 +251,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
