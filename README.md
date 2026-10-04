@@ -119,6 +119,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -190,6 +191,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0029-divide-two-integers](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
@@ -289,4 +291,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
