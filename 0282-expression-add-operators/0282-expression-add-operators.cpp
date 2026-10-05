@@ -24,7 +24,7 @@ public:
         // Backtracking loop
         for (int j = i; j < s.length(); j++) {
 
-            // Leading zero handle
+            // Leading zero handle coz 01 ya 08 kuch ni hota ya rto 1 hota h ya 8
             if (j > i && s[i] == '0')
                 return;
 
