@@ -4,7 +4,6 @@ public:
 
         int n = s.length();
 
-        // dp[i][j] = true if s[i...j] is palindrome
         vector<vector<bool>> dp(n, vector<bool>(n, false));
 
         for(int gap = 0; gap < n; gap++) {
@@ -22,8 +21,6 @@ public:
                 }
             }
         }
-
-        // strg[i] = minimum cuts needed for s[0...i]
         vector<int> strg(n);
 
         strg[0] = 0;
