@@ -232,6 +232,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0155-min-stack/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Breadth-First Search
@@ -303,4 +304,8 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
