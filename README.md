@@ -60,6 +60,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
@@ -201,6 +202,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
@@ -239,6 +241,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
