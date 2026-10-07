@@ -1,42 +1,47 @@
 class Solution {
 public:
     int calculate(string s) {
-        int n = s.size();
-        int res = 0, curr = 0, prev = 0;
-        char sign = '+';
-        for(int i = 0; i < n; i ++){
-            while(i < n && s[i] == ' ') i ++;
-            if(i == n) break;
+        stack<int> st;
+        int num = 0;
+        char op = '+';
 
-            if(isdigit(s[i])){
-                while(i < n && isdigit(s[i])){
-                    curr = (curr) * 10 + (s[i] - '0');
-                    i ++;
-                }
-                if(sign == '+'){
-                    res += curr;
-                    prev = curr;
-                }
-                else if(sign == '-'){
-                    res -= curr;
-                    prev = -curr;
-                }
-                else if(sign == '*'){
-                    res -= prev;
-                    res += (prev * curr);
-                    prev = (prev * curr);
-                }
-                else if(sign == '/'){
-                    res -= prev;
-                    res += (prev / curr);
-                    prev = (prev / curr);
-                }
-                curr = 0;
+        for (int i = 0; i < s.length(); i++) {
+
+            if (isdigit(s[i])) {
+                num = num * 10 + (s[i] - '0');
             }
 
-            if(i == n) break;
-            if(s[i] == '+' || s[i] =='-' || s[i] == '*' || s[i] == '/') sign = s[i];
+            if ((!isdigit(s[i]) && s[i] != ' ') || i == s.length() - 1) {
+
+                if (op == '+') {
+                    st.push(num);
+                }
+                else if (op == '-') {
+                    st.push(-num);
+                }
+                else if (op == '*') {
+                    int x = st.top();
+                    st.pop();
+                    st.push(x * num);
+                }
+                else if (op == '/') {
+                    int x = st.top();
+                    st.pop();
+                    st.push(x / num);
+                }
+
+                op = s[i];
+                num = 0;
+            }
         }
-        return res;
+
+        int ans = 0;
+
+        while (!st.empty()) {
+            ans += st.top();
+            st.pop();
+        }
+
+        return ans;
     }
 };
