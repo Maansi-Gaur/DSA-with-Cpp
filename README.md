@@ -157,6 +157,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0071-simplify-path/) | Medium |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -247,6 +248,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0071-simplify-path](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0227-basic-calculator-ii/) | Medium |
