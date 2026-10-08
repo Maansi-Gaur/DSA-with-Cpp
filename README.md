@@ -58,6 +58,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0068-text-justification](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -251,6 +252,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0020-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0224-basic-calculator/) | Hard |
@@ -344,6 +346,11 @@ I will keep adding new problems as I continue learning and solving.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0739-daily-temperatures/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
