@@ -53,6 +53,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0068-text-justification/) | Hard |
@@ -123,6 +124,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
@@ -332,6 +334,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
