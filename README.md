@@ -68,6 +68,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0739-daily-temperatures/) | Medium |
@@ -201,6 +202,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Math
