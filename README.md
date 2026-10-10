@@ -49,6 +49,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0046-permutations/) | Medium |
@@ -191,6 +192,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0217-contains-duplicate/) | Easy |
@@ -202,6 +204,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
