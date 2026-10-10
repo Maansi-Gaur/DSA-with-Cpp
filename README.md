@@ -56,6 +56,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0068-text-justification/) | Hard |
@@ -130,6 +131,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0032-longest-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
@@ -188,6 +190,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Sorting
