@@ -63,6 +63,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0073-set-matrix-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -89,6 +90,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
@@ -170,6 +172,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0125-valid-palindrome/) | Easy |
@@ -244,6 +247,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0054-spiral-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 ## Heap (Priority Queue)
@@ -378,4 +382,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0056-merge-intervals/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
