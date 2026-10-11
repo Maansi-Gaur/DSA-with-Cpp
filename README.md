@@ -53,6 +53,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
@@ -111,6 +112,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0217-contains-duplicate/) | Easy |
