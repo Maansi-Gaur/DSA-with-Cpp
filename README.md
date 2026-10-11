@@ -125,6 +125,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0278-first-bad-version/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -388,4 +389,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
