@@ -75,6 +75,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -126,6 +127,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0035-search-insert-position](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -255,6 +257,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0980-unique-paths-iii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -363,6 +366,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
