@@ -48,6 +48,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -126,6 +127,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0162-find-peak-element/) | Medium |
@@ -367,6 +369,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
