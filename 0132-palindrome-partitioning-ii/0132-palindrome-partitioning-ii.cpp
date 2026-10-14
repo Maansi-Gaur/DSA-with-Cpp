@@ -26,7 +26,7 @@ public:
         strg[0] = 0;
 
         for(int j = 1; j < n; j++) {
-
+//poora match ho gya
             if(dp[0][j]) {
                 strg[j] = 0;
             }
