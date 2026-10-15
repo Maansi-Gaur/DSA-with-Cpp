@@ -53,6 +53,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0014-longest-common-prefix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0041-first-missing-positive/) | Hard |
@@ -132,6 +133,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
