@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         int l = 0;
-        int h = arr.size() - k;
+        int h = arr.size() - k;//Maximum starting position, kyunki k elements ke liye array mein enough space hona chahiye.
 
         while (l < h) {
             int mid = l + (h - l) / 2;
