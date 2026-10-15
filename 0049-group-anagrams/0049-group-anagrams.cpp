@@ -7,14 +7,6 @@ public:
         for(int i=0; i<n; i++){
             string key= strs[i];
             sort(key.begin(),key.end());
-            //string key= sort(strs[i].begin(),strs[i].end());
-            //if(key==mpp.end()){
-           // if(mpp.find(key)==mpp.end()){
-                //mpp[key]=strs[i];
-               // mpp[key].push_back(strs[i]);
-          //  }else{
-              //  mpp[key].push_back(strs[i]);
-           // }
            mpp[key].push_back(strs[i]);
         }
         for(auto it:mpp){
