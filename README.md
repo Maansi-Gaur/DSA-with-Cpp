@@ -49,6 +49,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -211,6 +212,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
@@ -232,6 +234,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
