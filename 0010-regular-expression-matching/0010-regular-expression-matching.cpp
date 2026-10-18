@@ -2,8 +2,8 @@ class Solution {
 public:
     bool isMatch(string s, string p) {
 
-        vector<vector<bool>> dp(p.length() + 1,
-                                vector<bool>(s.length() + 1, false));
+        vector<vector<bool>> dp(p.length() + 1,//decides rows
+                                vector<bool>(s.length() + 1, false));//decides columns
 
         for (int i = 0; i < dp.size(); i++) {
 
