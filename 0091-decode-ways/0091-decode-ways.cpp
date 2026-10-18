@@ -22,7 +22,8 @@ public:
             }
 
             // current is 0
-            else if(str[i] == '0') {
+            else if(str[i] == '0')
+            {
                 if(str[i - 1] == '1' || str[i - 1] == '2')
                     dp[i] = (i >= 2 ? dp[i - 2] : 1);
                 else
