@@ -210,6 +210,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0224-basic-calculator](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -225,6 +226,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0011-container-with-most-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0055-jump-game/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Sorting
@@ -319,6 +321,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0225-implement-stack-using-queues](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0682-baseball-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0739-daily-temperatures/) | Medium |
@@ -415,6 +418,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0739-daily-temperatures/) | Medium |
 ## Range Minimum/Maximum Query
