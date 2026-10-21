@@ -57,6 +57,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0035-search-insert-position](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
@@ -157,6 +158,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0055-jump-game/) | Medium |
@@ -246,6 +248,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0015-3sum](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0189-rotate-array/) | Medium |
@@ -307,6 +310,7 @@ I will keep adding new problems as I continue learning and solving.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -409,6 +413,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0739-daily-temperatures/) | Medium |
