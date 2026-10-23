@@ -12,7 +12,7 @@ public:
     int f(int i, int n, string &s, vector<int> &dp) {
         if (i == n) return 0;
 
-        if (dp[i] != -1) return dp[i];
+        if (dp[i] != -1) return dp[i];//dp[i] = index i se end tak minimum palindrome parts ki count store karega.
 
         int minCost = INT_MAX;
 
