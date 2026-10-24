@@ -126,6 +126,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0049-group-anagrams](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -209,6 +210,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0212-word-search-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0212-word-search-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0282-expression-add-operators](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0282-expression-add-operators/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0344-reverse-string/) | Easy |
@@ -237,6 +239,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0056-merge-intervals](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0658-find-k-closest-elements/) | Medium |
