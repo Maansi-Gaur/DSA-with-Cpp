@@ -8,7 +8,6 @@ public:
         }
         return true;
     }
-
     int f(int i, int n, string &s, vector<int> &dp) {
         if (i == n) return 0;
 
