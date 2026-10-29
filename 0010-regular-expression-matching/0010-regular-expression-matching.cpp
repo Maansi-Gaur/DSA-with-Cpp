@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-
         vector<vector<bool>> dp(p.length() + 1,//decides rows
                                 vector<bool>(s.length() + 1, false));//decides columns
 
