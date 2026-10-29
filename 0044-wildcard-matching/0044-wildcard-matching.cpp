@@ -13,12 +13,10 @@ public:
                 if (i == n && j == m) {
                     dp[i][j] = true;
                 }
-
                 // pattern finished but string remains
                 else if (i == n) {
                     dp[i][j] = false;
                 }
-
                 // string finished
                 else if (j == m) {
                     if (pattern[i] == '*')
@@ -26,7 +24,6 @@ public:
                     else
                         dp[i][j] = false;
                 }
-
                 else {
                     // ?
                     if (pattern[i] == '?') {
