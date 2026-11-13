@@ -352,6 +352,7 @@ I will keep adding new problems as I continue learning and solving.
 | [0010-regular-expression-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0224-basic-calculator/) | Hard |
 | [0509-fibonacci-number](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
@@ -453,4 +454,8 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
