@@ -336,6 +336,7 @@ I will keep adding new problems as I continue learning and solving.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Ternary Search
@@ -440,6 +441,7 @@ I will keep adding new problems as I continue learning and solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0079-word-search/) | Medium |
+| [0101-symmetric-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -449,10 +451,12 @@ I will keep adding new problems as I continue learning and solving.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maansi-Gaur/DSA-with-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
